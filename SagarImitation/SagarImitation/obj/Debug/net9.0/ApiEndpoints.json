@@ -1,0 +1,498 @@
+[
+  {
+    "ContainingType": "SagarImitation.API.Areas.Admin.AccountController",
+    "Method": "ForgetPassword",
+    "RelativePath": "api/admin/account/forget-password",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "SagarImitation.Model.Login.ForgetPasswordRequestModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "SagarImitation.Common.Helpers.ApiPostResponse\u00601[[SagarImitation.Model.Login.ForgetPasswordResponseModel, SagarImitaion.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SagarImitation.API.Areas.Admin.AccountController",
+    "Method": "Login",
+    "RelativePath": "api/admin/account/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "SagarImitation.Model.Login.LoginRequestModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "SagarImitation.Common.Helpers.ApiPostResponse\u00601[[SagarImitation.Model.Login.LoginDetailModel, SagarImitaion.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SagarImitation.API.Areas.Admin.AccountController",
+    "Method": "Logout",
+    "RelativePath": "api/admin/account/logout/{loginTokenId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginTokenId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "SagarImitation.Common.Helpers.BaseApiResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SagarImitation.API.Areas.Admin.AccountController",
+    "Method": "ResetPassword",
+    "RelativePath": "api/admin/account/reset-password",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "SagarImitation.Model.Login.ResetPasswordWithLinkRequestModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "SagarImitation.Common.Helpers.BaseApiResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SagarImitation.API.Areas.Admin.CategoryController",
+    "Method": "ActiveInactiveCategory",
+    "RelativePath": "api/admin/category/active-inactive-category/{categoryId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "categoryId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "SagarImitation.Common.Helpers.BaseApiResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SagarImitation.API.Areas.Admin.CategoryController",
+    "Method": "DeleteCategory",
+    "RelativePath": "api/admin/category/category-delete/{categoryId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "categoryId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "SagarImitation.Common.Helpers.BaseApiResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SagarImitation.API.Areas.Admin.CategoryController",
+    "Method": "CategoryListForDropdown",
+    "RelativePath": "api/admin/category/getCategoryListForDropdown",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "SagarImitation.Common.Helpers.ApiResponse\u00601[[SagarImitaion.Model.Category.CategoryResponseModel, SagarImitaion.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SagarImitation.API.Areas.Admin.CategoryController",
+    "Method": "GetCategoryDetailsById",
+    "RelativePath": "api/admin/category/getDetailsById/{categoryId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "categoryId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "SagarImitation.Common.Helpers.ApiPostResponse\u00601[[SagarImitaion.Model.Category.CategoryResponseModel, SagarImitaion.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SagarImitation.API.Areas.Admin.CategoryController",
+    "Method": "CategoryList",
+    "RelativePath": "api/admin/category/list",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "SagarImitation.Common.Helpers.ApiResponse\u00601[[SagarImitaion.Model.Category.CategoryResponseModel, SagarImitaion.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SagarImitation.API.Areas.Admin.CategoryController",
+    "Method": "Save",
+    "RelativePath": "api/admin/category/save",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "SagarImitaion.Model.Category.CategoryRequestModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "SagarImitation.Common.Helpers.BaseApiResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SagarImitation.API.Areas.Admin.ProductController",
+    "Method": "ActiveInactiveProduct",
+    "RelativePath": "api/admin/product/active-inactive-product/{productId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "SagarImitation.Common.Helpers.BaseApiResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SagarImitation.API.Areas.Admin.ProductController",
+    "Method": "DeleteProduct",
+    "RelativePath": "api/admin/product/DeleteProduct/{productId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "SagarImitation.Common.Helpers.BaseApiResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SagarImitation.API.Areas.Admin.ProductController",
+    "Method": "GetProductById",
+    "RelativePath": "api/admin/product/getProductById/{productId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "SagarImitation.Common.Helpers.ApiPostResponse\u00601[[SagarImitaion.Model.Product.ProductResponseModel, SagarImitaion.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SagarImitation.API.Areas.Admin.ProductController",
+    "Method": "List",
+    "RelativePath": "api/admin/product/list",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "SagarImitation.Common.Helpers.ApiResponse\u00601[[SagarImitaion.Model.Product.ProductResponseModel, SagarImitaion.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SagarImitation.API.Areas.Admin.ProductController",
+    "Method": "Save",
+    "RelativePath": "api/admin/product/save",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "SagarImitaion.Model.Product.ProductRequestModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "SagarImitation.Common.Helpers.BaseApiResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SagarImitation.API.Areas.Admin.UserController",
+    "Method": "ActiveInactiveUser",
+    "RelativePath": "api/admin/user/active-inactive-user/{userId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "SagarImitation.Common.Helpers.BaseApiResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SagarImitation.API.Areas.Admin.UserController",
+    "Method": "DeleteUser",
+    "RelativePath": "api/admin/user/delete/{userId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "SagarImitation.Common.Helpers.BaseApiResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SagarImitation.API.Areas.Admin.UserController",
+    "Method": "GetUserById",
+    "RelativePath": "api/admin/user/getUserById/{userId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "SagarImitation.Common.Helpers.ApiPostResponse\u00601[[SagarImitation.Model.User.UserResponseModel, SagarImitaion.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SagarImitation.API.Areas.Admin.UserController",
+    "Method": "List",
+    "RelativePath": "api/admin/user/list",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "SagarImitation.Common.Helpers.ApiResponse\u00601[[SagarImitation.Model.User.UserResponseModel, SagarImitaion.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SagarImitation.API.Areas.Admin.UserController",
+    "Method": "Save",
+    "RelativePath": "api/admin/user/save",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "SagarImitation.Model.User.UserRequestModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "SagarImitation.Common.Helpers.BaseApiResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

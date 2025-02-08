@@ -1,0 +1,8 @@
+C:\Sagar Imitation\Backend\SagarImitation\SagarImitation\wwwroot\EmailTemplates\UserPassword.html
+C:\Sagar Imitation\Backend\SagarImitation\SagarImitation\wwwroot\EmailTemplates\ExceptionReport.html
+C:\Sagar Imitation\Backend\SagarImitation\SagarImitation\wwwroot\EmailTemplates\UserForgotPassword.html
+C:\Sagar Imitation\Backend\SagarImitation\SagarImitation\wwwroot\EmailTemplates\UserForgotPasswordWithLink.html
+wwwroot\EmailTemplates\ExceptionReport.html
+wwwroot\EmailTemplates\UserForgotPassword.html
+wwwroot\EmailTemplates\UserForgotPasswordWithLink.html
+wwwroot\EmailTemplates\UserPassword.html

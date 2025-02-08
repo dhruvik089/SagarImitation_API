@@ -1,0 +1,1198 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "EmailTemplates/ExceptionReport.html",
+      "AssetFile": "EmailTemplates/ExceptionReport.html.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001223990208"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "816"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VSYOaOuFhcbpVPwoWGWRBzv8h2M77A6W4FtQZJ6cpJE=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"wOCeUrPzLCfb2h83O5iUBRjOl1YC59/MEjwvqiGuwqE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 08:49:01 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wOCeUrPzLCfb2h83O5iUBRjOl1YC59/MEjwvqiGuwqE="
+        }
+      ]
+    },
+    {
+      "Route": "EmailTemplates/ExceptionReport.html",
+      "AssetFile": "EmailTemplates/ExceptionReport.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4515"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wOCeUrPzLCfb2h83O5iUBRjOl1YC59/MEjwvqiGuwqE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 08:49:01 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wOCeUrPzLCfb2h83O5iUBRjOl1YC59/MEjwvqiGuwqE="
+        }
+      ]
+    },
+    {
+      "Route": "EmailTemplates/ExceptionReport.html.gz",
+      "AssetFile": "EmailTemplates/ExceptionReport.html.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "816"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VSYOaOuFhcbpVPwoWGWRBzv8h2M77A6W4FtQZJ6cpJE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 08:49:01 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VSYOaOuFhcbpVPwoWGWRBzv8h2M77A6W4FtQZJ6cpJE="
+        }
+      ]
+    },
+    {
+      "Route": "EmailTemplates/ExceptionReport.sdhh5aiwnb.html",
+      "AssetFile": "EmailTemplates/ExceptionReport.html.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001223990208"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "816"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VSYOaOuFhcbpVPwoWGWRBzv8h2M77A6W4FtQZJ6cpJE=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"wOCeUrPzLCfb2h83O5iUBRjOl1YC59/MEjwvqiGuwqE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 08:49:01 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sdhh5aiwnb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wOCeUrPzLCfb2h83O5iUBRjOl1YC59/MEjwvqiGuwqE="
+        },
+        {
+          "Name": "label",
+          "Value": "EmailTemplates/ExceptionReport.html"
+        }
+      ]
+    },
+    {
+      "Route": "EmailTemplates/ExceptionReport.sdhh5aiwnb.html",
+      "AssetFile": "EmailTemplates/ExceptionReport.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4515"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wOCeUrPzLCfb2h83O5iUBRjOl1YC59/MEjwvqiGuwqE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 08:49:01 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sdhh5aiwnb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wOCeUrPzLCfb2h83O5iUBRjOl1YC59/MEjwvqiGuwqE="
+        },
+        {
+          "Name": "label",
+          "Value": "EmailTemplates/ExceptionReport.html"
+        }
+      ]
+    },
+    {
+      "Route": "EmailTemplates/ExceptionReport.sdhh5aiwnb.html.gz",
+      "AssetFile": "EmailTemplates/ExceptionReport.html.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "816"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VSYOaOuFhcbpVPwoWGWRBzv8h2M77A6W4FtQZJ6cpJE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 08:49:01 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sdhh5aiwnb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VSYOaOuFhcbpVPwoWGWRBzv8h2M77A6W4FtQZJ6cpJE="
+        },
+        {
+          "Name": "label",
+          "Value": "EmailTemplates/ExceptionReport.html.gz"
+        }
+      ]
+    },
+    {
+      "Route": "EmailTemplates/UserForgotPassword.h5hqx4qdh5.html",
+      "AssetFile": "EmailTemplates/UserForgotPassword.html.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000576701269"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1733"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EvIeeYp0QQAM82R0R0r7pVqu07pzejk3xHm6bKMBumo=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"q/UeOAIwN93FBToVhmFrncVvwvEzdNv2ktLV6vihREs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 08:49:01 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h5hqx4qdh5"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-q/UeOAIwN93FBToVhmFrncVvwvEzdNv2ktLV6vihREs="
+        },
+        {
+          "Name": "label",
+          "Value": "EmailTemplates/UserForgotPassword.html"
+        }
+      ]
+    },
+    {
+      "Route": "EmailTemplates/UserForgotPassword.h5hqx4qdh5.html",
+      "AssetFile": "EmailTemplates/UserForgotPassword.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7968"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q/UeOAIwN93FBToVhmFrncVvwvEzdNv2ktLV6vihREs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 08:49:01 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h5hqx4qdh5"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-q/UeOAIwN93FBToVhmFrncVvwvEzdNv2ktLV6vihREs="
+        },
+        {
+          "Name": "label",
+          "Value": "EmailTemplates/UserForgotPassword.html"
+        }
+      ]
+    },
+    {
+      "Route": "EmailTemplates/UserForgotPassword.h5hqx4qdh5.html.gz",
+      "AssetFile": "EmailTemplates/UserForgotPassword.html.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1733"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EvIeeYp0QQAM82R0R0r7pVqu07pzejk3xHm6bKMBumo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 08:49:01 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h5hqx4qdh5"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EvIeeYp0QQAM82R0R0r7pVqu07pzejk3xHm6bKMBumo="
+        },
+        {
+          "Name": "label",
+          "Value": "EmailTemplates/UserForgotPassword.html.gz"
+        }
+      ]
+    },
+    {
+      "Route": "EmailTemplates/UserForgotPassword.html",
+      "AssetFile": "EmailTemplates/UserForgotPassword.html.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000576701269"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1733"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EvIeeYp0QQAM82R0R0r7pVqu07pzejk3xHm6bKMBumo=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"q/UeOAIwN93FBToVhmFrncVvwvEzdNv2ktLV6vihREs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 08:49:01 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-q/UeOAIwN93FBToVhmFrncVvwvEzdNv2ktLV6vihREs="
+        }
+      ]
+    },
+    {
+      "Route": "EmailTemplates/UserForgotPassword.html",
+      "AssetFile": "EmailTemplates/UserForgotPassword.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7968"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q/UeOAIwN93FBToVhmFrncVvwvEzdNv2ktLV6vihREs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 08:49:01 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-q/UeOAIwN93FBToVhmFrncVvwvEzdNv2ktLV6vihREs="
+        }
+      ]
+    },
+    {
+      "Route": "EmailTemplates/UserForgotPassword.html.gz",
+      "AssetFile": "EmailTemplates/UserForgotPassword.html.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1733"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EvIeeYp0QQAM82R0R0r7pVqu07pzejk3xHm6bKMBumo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 08:49:01 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EvIeeYp0QQAM82R0R0r7pVqu07pzejk3xHm6bKMBumo="
+        }
+      ]
+    },
+    {
+      "Route": "EmailTemplates/UserForgotPasswordWithLink.a645pkh89e.html",
+      "AssetFile": "EmailTemplates/UserForgotPasswordWithLink.html.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000238038562"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4200"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HDYE57B3Hn4lbh+HZniosGj9j0PPhhIaxcYK53UfDMw=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Yj3sijSqQZMV+o0z2NHWVXzXppfkatDO56MNabKmS+g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 08:49:01 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a645pkh89e"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Yj3sijSqQZMV+o0z2NHWVXzXppfkatDO56MNabKmS+g="
+        },
+        {
+          "Name": "label",
+          "Value": "EmailTemplates/UserForgotPasswordWithLink.html"
+        }
+      ]
+    },
+    {
+      "Route": "EmailTemplates/UserForgotPasswordWithLink.a645pkh89e.html",
+      "AssetFile": "EmailTemplates/UserForgotPasswordWithLink.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35012"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Yj3sijSqQZMV+o0z2NHWVXzXppfkatDO56MNabKmS+g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 08:49:01 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a645pkh89e"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Yj3sijSqQZMV+o0z2NHWVXzXppfkatDO56MNabKmS+g="
+        },
+        {
+          "Name": "label",
+          "Value": "EmailTemplates/UserForgotPasswordWithLink.html"
+        }
+      ]
+    },
+    {
+      "Route": "EmailTemplates/UserForgotPasswordWithLink.a645pkh89e.html.gz",
+      "AssetFile": "EmailTemplates/UserForgotPasswordWithLink.html.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4200"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HDYE57B3Hn4lbh+HZniosGj9j0PPhhIaxcYK53UfDMw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 08:49:01 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a645pkh89e"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HDYE57B3Hn4lbh+HZniosGj9j0PPhhIaxcYK53UfDMw="
+        },
+        {
+          "Name": "label",
+          "Value": "EmailTemplates/UserForgotPasswordWithLink.html.gz"
+        }
+      ]
+    },
+    {
+      "Route": "EmailTemplates/UserForgotPasswordWithLink.html",
+      "AssetFile": "EmailTemplates/UserForgotPasswordWithLink.html.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000238038562"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4200"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HDYE57B3Hn4lbh+HZniosGj9j0PPhhIaxcYK53UfDMw=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Yj3sijSqQZMV+o0z2NHWVXzXppfkatDO56MNabKmS+g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 08:49:01 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Yj3sijSqQZMV+o0z2NHWVXzXppfkatDO56MNabKmS+g="
+        }
+      ]
+    },
+    {
+      "Route": "EmailTemplates/UserForgotPasswordWithLink.html",
+      "AssetFile": "EmailTemplates/UserForgotPasswordWithLink.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35012"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Yj3sijSqQZMV+o0z2NHWVXzXppfkatDO56MNabKmS+g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 08:49:01 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Yj3sijSqQZMV+o0z2NHWVXzXppfkatDO56MNabKmS+g="
+        }
+      ]
+    },
+    {
+      "Route": "EmailTemplates/UserForgotPasswordWithLink.html.gz",
+      "AssetFile": "EmailTemplates/UserForgotPasswordWithLink.html.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4200"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HDYE57B3Hn4lbh+HZniosGj9j0PPhhIaxcYK53UfDMw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 08:49:01 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HDYE57B3Hn4lbh+HZniosGj9j0PPhhIaxcYK53UfDMw="
+        }
+      ]
+    },
+    {
+      "Route": "EmailTemplates/UserPassword.1i87ltsb6w.html",
+      "AssetFile": "EmailTemplates/UserPassword.html.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000564652739"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1770"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3y+asrFgXusDnSpm7izJkaIgTE1ze3C90pb7Tvv8sfs=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"yW8cSaqNZShU1RxFPuGeosOT6igBUKfoKr1sO1TKWZo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 08:49:01 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1i87ltsb6w"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yW8cSaqNZShU1RxFPuGeosOT6igBUKfoKr1sO1TKWZo="
+        },
+        {
+          "Name": "label",
+          "Value": "EmailTemplates/UserPassword.html"
+        }
+      ]
+    },
+    {
+      "Route": "EmailTemplates/UserPassword.1i87ltsb6w.html",
+      "AssetFile": "EmailTemplates/UserPassword.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8161"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yW8cSaqNZShU1RxFPuGeosOT6igBUKfoKr1sO1TKWZo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 08:49:01 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1i87ltsb6w"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yW8cSaqNZShU1RxFPuGeosOT6igBUKfoKr1sO1TKWZo="
+        },
+        {
+          "Name": "label",
+          "Value": "EmailTemplates/UserPassword.html"
+        }
+      ]
+    },
+    {
+      "Route": "EmailTemplates/UserPassword.1i87ltsb6w.html.gz",
+      "AssetFile": "EmailTemplates/UserPassword.html.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1770"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3y+asrFgXusDnSpm7izJkaIgTE1ze3C90pb7Tvv8sfs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 08:49:01 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1i87ltsb6w"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3y+asrFgXusDnSpm7izJkaIgTE1ze3C90pb7Tvv8sfs="
+        },
+        {
+          "Name": "label",
+          "Value": "EmailTemplates/UserPassword.html.gz"
+        }
+      ]
+    },
+    {
+      "Route": "EmailTemplates/UserPassword.html",
+      "AssetFile": "EmailTemplates/UserPassword.html.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000564652739"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1770"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3y+asrFgXusDnSpm7izJkaIgTE1ze3C90pb7Tvv8sfs=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"yW8cSaqNZShU1RxFPuGeosOT6igBUKfoKr1sO1TKWZo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 08:49:01 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yW8cSaqNZShU1RxFPuGeosOT6igBUKfoKr1sO1TKWZo="
+        }
+      ]
+    },
+    {
+      "Route": "EmailTemplates/UserPassword.html",
+      "AssetFile": "EmailTemplates/UserPassword.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8161"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yW8cSaqNZShU1RxFPuGeosOT6igBUKfoKr1sO1TKWZo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 08:49:01 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yW8cSaqNZShU1RxFPuGeosOT6igBUKfoKr1sO1TKWZo="
+        }
+      ]
+    },
+    {
+      "Route": "EmailTemplates/UserPassword.html.gz",
+      "AssetFile": "EmailTemplates/UserPassword.html.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1770"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3y+asrFgXusDnSpm7izJkaIgTE1ze3C90pb7Tvv8sfs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 08:49:01 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3y+asrFgXusDnSpm7izJkaIgTE1ze3C90pb7Tvv8sfs="
+        }
+      ]
+    }
+  ]
+}

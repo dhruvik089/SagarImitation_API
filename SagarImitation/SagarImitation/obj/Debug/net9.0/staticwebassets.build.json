@@ -1,0 +1,1382 @@
+{
+  "Version": 1,
+  "Hash": "0z4YPKy22McnVBVQnayK/fWWgEHaDvvVdxZF01pRqMo=",
+  "Source": "SagarImitation.API",
+  "BasePath": "_content/SagarImitation.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SagarImitation.API\\wwwroot",
+      "Source": "SagarImitation.API",
+      "ContentRoot": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\wwwroot\\",
+      "BasePath": "_content/SagarImitation.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\obj\\Debug\\net9.0\\compressed\\0p061lpf9d-1i87ltsb6w.gz",
+      "SourceId": "SagarImitation.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/SagarImitation.API",
+      "RelativePath": "EmailTemplates/UserPassword#[.{fingerprint=1i87ltsb6w}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\wwwroot\\EmailTemplates\\UserPassword.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "7y5r9scm0y",
+      "Integrity": "3y+asrFgXusDnSpm7izJkaIgTE1ze3C90pb7Tvv8sfs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\wwwroot\\EmailTemplates\\UserPassword.html"
+    },
+    {
+      "Identity": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\obj\\Debug\\net9.0\\compressed\\8hm3wtl2z1-sdhh5aiwnb.gz",
+      "SourceId": "SagarImitation.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/SagarImitation.API",
+      "RelativePath": "EmailTemplates/ExceptionReport#[.{fingerprint=sdhh5aiwnb}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\wwwroot\\EmailTemplates\\ExceptionReport.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "v7dv15fz0e",
+      "Integrity": "VSYOaOuFhcbpVPwoWGWRBzv8h2M77A6W4FtQZJ6cpJE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\wwwroot\\EmailTemplates\\ExceptionReport.html"
+    },
+    {
+      "Identity": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\obj\\Debug\\net9.0\\compressed\\llt8i2poev-h5hqx4qdh5.gz",
+      "SourceId": "SagarImitation.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/SagarImitation.API",
+      "RelativePath": "EmailTemplates/UserForgotPassword#[.{fingerprint=h5hqx4qdh5}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\wwwroot\\EmailTemplates\\UserForgotPassword.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "mrzw54c4rp",
+      "Integrity": "EvIeeYp0QQAM82R0R0r7pVqu07pzejk3xHm6bKMBumo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\wwwroot\\EmailTemplates\\UserForgotPassword.html"
+    },
+    {
+      "Identity": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\obj\\Debug\\net9.0\\compressed\\m01gken8kx-a645pkh89e.gz",
+      "SourceId": "SagarImitation.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/SagarImitation.API",
+      "RelativePath": "EmailTemplates/UserForgotPasswordWithLink#[.{fingerprint=a645pkh89e}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\wwwroot\\EmailTemplates\\UserForgotPasswordWithLink.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "grwtji3xh1",
+      "Integrity": "HDYE57B3Hn4lbh+HZniosGj9j0PPhhIaxcYK53UfDMw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\wwwroot\\EmailTemplates\\UserForgotPasswordWithLink.html"
+    },
+    {
+      "Identity": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\wwwroot\\EmailTemplates\\ExceptionReport.html",
+      "SourceId": "SagarImitation.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\wwwroot\\",
+      "BasePath": "_content/SagarImitation.API",
+      "RelativePath": "EmailTemplates/ExceptionReport#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sdhh5aiwnb",
+      "Integrity": "wOCeUrPzLCfb2h83O5iUBRjOl1YC59/MEjwvqiGuwqE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\EmailTemplates\\ExceptionReport.html"
+    },
+    {
+      "Identity": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\wwwroot\\EmailTemplates\\UserForgotPassword.html",
+      "SourceId": "SagarImitation.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\wwwroot\\",
+      "BasePath": "_content/SagarImitation.API",
+      "RelativePath": "EmailTemplates/UserForgotPassword#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "h5hqx4qdh5",
+      "Integrity": "q/UeOAIwN93FBToVhmFrncVvwvEzdNv2ktLV6vihREs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\EmailTemplates\\UserForgotPassword.html"
+    },
+    {
+      "Identity": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\wwwroot\\EmailTemplates\\UserForgotPasswordWithLink.html",
+      "SourceId": "SagarImitation.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\wwwroot\\",
+      "BasePath": "_content/SagarImitation.API",
+      "RelativePath": "EmailTemplates/UserForgotPasswordWithLink#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "a645pkh89e",
+      "Integrity": "Yj3sijSqQZMV+o0z2NHWVXzXppfkatDO56MNabKmS+g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\EmailTemplates\\UserForgotPasswordWithLink.html"
+    },
+    {
+      "Identity": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\wwwroot\\EmailTemplates\\UserPassword.html",
+      "SourceId": "SagarImitation.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\wwwroot\\",
+      "BasePath": "_content/SagarImitation.API",
+      "RelativePath": "EmailTemplates/UserPassword#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1i87ltsb6w",
+      "Integrity": "yW8cSaqNZShU1RxFPuGeosOT6igBUKfoKr1sO1TKWZo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\EmailTemplates\\UserPassword.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "EmailTemplates/ExceptionReport.html",
+      "AssetFile": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\obj\\Debug\\net9.0\\compressed\\8hm3wtl2z1-sdhh5aiwnb.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001223990208"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "816"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VSYOaOuFhcbpVPwoWGWRBzv8h2M77A6W4FtQZJ6cpJE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 08:49:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"wOCeUrPzLCfb2h83O5iUBRjOl1YC59/MEjwvqiGuwqE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wOCeUrPzLCfb2h83O5iUBRjOl1YC59/MEjwvqiGuwqE="
+        }
+      ]
+    },
+    {
+      "Route": "EmailTemplates/ExceptionReport.html",
+      "AssetFile": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\wwwroot\\EmailTemplates\\ExceptionReport.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4515"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wOCeUrPzLCfb2h83O5iUBRjOl1YC59/MEjwvqiGuwqE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 08:49:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wOCeUrPzLCfb2h83O5iUBRjOl1YC59/MEjwvqiGuwqE="
+        }
+      ]
+    },
+    {
+      "Route": "EmailTemplates/ExceptionReport.html.gz",
+      "AssetFile": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\obj\\Debug\\net9.0\\compressed\\8hm3wtl2z1-sdhh5aiwnb.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "816"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VSYOaOuFhcbpVPwoWGWRBzv8h2M77A6W4FtQZJ6cpJE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 08:49:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VSYOaOuFhcbpVPwoWGWRBzv8h2M77A6W4FtQZJ6cpJE="
+        }
+      ]
+    },
+    {
+      "Route": "EmailTemplates/ExceptionReport.sdhh5aiwnb.html",
+      "AssetFile": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\obj\\Debug\\net9.0\\compressed\\8hm3wtl2z1-sdhh5aiwnb.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001223990208"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "816"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VSYOaOuFhcbpVPwoWGWRBzv8h2M77A6W4FtQZJ6cpJE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 08:49:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"wOCeUrPzLCfb2h83O5iUBRjOl1YC59/MEjwvqiGuwqE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sdhh5aiwnb"
+        },
+        {
+          "Name": "label",
+          "Value": "EmailTemplates/ExceptionReport.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wOCeUrPzLCfb2h83O5iUBRjOl1YC59/MEjwvqiGuwqE="
+        }
+      ]
+    },
+    {
+      "Route": "EmailTemplates/ExceptionReport.sdhh5aiwnb.html",
+      "AssetFile": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\wwwroot\\EmailTemplates\\ExceptionReport.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4515"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wOCeUrPzLCfb2h83O5iUBRjOl1YC59/MEjwvqiGuwqE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 08:49:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sdhh5aiwnb"
+        },
+        {
+          "Name": "label",
+          "Value": "EmailTemplates/ExceptionReport.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wOCeUrPzLCfb2h83O5iUBRjOl1YC59/MEjwvqiGuwqE="
+        }
+      ]
+    },
+    {
+      "Route": "EmailTemplates/ExceptionReport.sdhh5aiwnb.html.gz",
+      "AssetFile": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\obj\\Debug\\net9.0\\compressed\\8hm3wtl2z1-sdhh5aiwnb.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "816"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VSYOaOuFhcbpVPwoWGWRBzv8h2M77A6W4FtQZJ6cpJE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 08:49:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sdhh5aiwnb"
+        },
+        {
+          "Name": "label",
+          "Value": "EmailTemplates/ExceptionReport.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VSYOaOuFhcbpVPwoWGWRBzv8h2M77A6W4FtQZJ6cpJE="
+        }
+      ]
+    },
+    {
+      "Route": "EmailTemplates/UserForgotPassword.h5hqx4qdh5.html",
+      "AssetFile": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\obj\\Debug\\net9.0\\compressed\\llt8i2poev-h5hqx4qdh5.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000576701269"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1733"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EvIeeYp0QQAM82R0R0r7pVqu07pzejk3xHm6bKMBumo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 08:49:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"q/UeOAIwN93FBToVhmFrncVvwvEzdNv2ktLV6vihREs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h5hqx4qdh5"
+        },
+        {
+          "Name": "label",
+          "Value": "EmailTemplates/UserForgotPassword.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-q/UeOAIwN93FBToVhmFrncVvwvEzdNv2ktLV6vihREs="
+        }
+      ]
+    },
+    {
+      "Route": "EmailTemplates/UserForgotPassword.h5hqx4qdh5.html",
+      "AssetFile": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\wwwroot\\EmailTemplates\\UserForgotPassword.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7968"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q/UeOAIwN93FBToVhmFrncVvwvEzdNv2ktLV6vihREs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 08:49:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h5hqx4qdh5"
+        },
+        {
+          "Name": "label",
+          "Value": "EmailTemplates/UserForgotPassword.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-q/UeOAIwN93FBToVhmFrncVvwvEzdNv2ktLV6vihREs="
+        }
+      ]
+    },
+    {
+      "Route": "EmailTemplates/UserForgotPassword.h5hqx4qdh5.html.gz",
+      "AssetFile": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\obj\\Debug\\net9.0\\compressed\\llt8i2poev-h5hqx4qdh5.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1733"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EvIeeYp0QQAM82R0R0r7pVqu07pzejk3xHm6bKMBumo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 08:49:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h5hqx4qdh5"
+        },
+        {
+          "Name": "label",
+          "Value": "EmailTemplates/UserForgotPassword.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EvIeeYp0QQAM82R0R0r7pVqu07pzejk3xHm6bKMBumo="
+        }
+      ]
+    },
+    {
+      "Route": "EmailTemplates/UserForgotPassword.html",
+      "AssetFile": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\obj\\Debug\\net9.0\\compressed\\llt8i2poev-h5hqx4qdh5.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000576701269"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1733"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EvIeeYp0QQAM82R0R0r7pVqu07pzejk3xHm6bKMBumo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 08:49:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"q/UeOAIwN93FBToVhmFrncVvwvEzdNv2ktLV6vihREs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-q/UeOAIwN93FBToVhmFrncVvwvEzdNv2ktLV6vihREs="
+        }
+      ]
+    },
+    {
+      "Route": "EmailTemplates/UserForgotPassword.html",
+      "AssetFile": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\wwwroot\\EmailTemplates\\UserForgotPassword.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7968"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q/UeOAIwN93FBToVhmFrncVvwvEzdNv2ktLV6vihREs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 08:49:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-q/UeOAIwN93FBToVhmFrncVvwvEzdNv2ktLV6vihREs="
+        }
+      ]
+    },
+    {
+      "Route": "EmailTemplates/UserForgotPassword.html.gz",
+      "AssetFile": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\obj\\Debug\\net9.0\\compressed\\llt8i2poev-h5hqx4qdh5.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1733"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EvIeeYp0QQAM82R0R0r7pVqu07pzejk3xHm6bKMBumo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 08:49:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EvIeeYp0QQAM82R0R0r7pVqu07pzejk3xHm6bKMBumo="
+        }
+      ]
+    },
+    {
+      "Route": "EmailTemplates/UserForgotPasswordWithLink.a645pkh89e.html",
+      "AssetFile": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\obj\\Debug\\net9.0\\compressed\\m01gken8kx-a645pkh89e.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000238038562"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4200"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HDYE57B3Hn4lbh+HZniosGj9j0PPhhIaxcYK53UfDMw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 08:49:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Yj3sijSqQZMV+o0z2NHWVXzXppfkatDO56MNabKmS+g=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a645pkh89e"
+        },
+        {
+          "Name": "label",
+          "Value": "EmailTemplates/UserForgotPasswordWithLink.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Yj3sijSqQZMV+o0z2NHWVXzXppfkatDO56MNabKmS+g="
+        }
+      ]
+    },
+    {
+      "Route": "EmailTemplates/UserForgotPasswordWithLink.a645pkh89e.html",
+      "AssetFile": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\wwwroot\\EmailTemplates\\UserForgotPasswordWithLink.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35012"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Yj3sijSqQZMV+o0z2NHWVXzXppfkatDO56MNabKmS+g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 08:49:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a645pkh89e"
+        },
+        {
+          "Name": "label",
+          "Value": "EmailTemplates/UserForgotPasswordWithLink.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Yj3sijSqQZMV+o0z2NHWVXzXppfkatDO56MNabKmS+g="
+        }
+      ]
+    },
+    {
+      "Route": "EmailTemplates/UserForgotPasswordWithLink.a645pkh89e.html.gz",
+      "AssetFile": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\obj\\Debug\\net9.0\\compressed\\m01gken8kx-a645pkh89e.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4200"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HDYE57B3Hn4lbh+HZniosGj9j0PPhhIaxcYK53UfDMw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 08:49:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a645pkh89e"
+        },
+        {
+          "Name": "label",
+          "Value": "EmailTemplates/UserForgotPasswordWithLink.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HDYE57B3Hn4lbh+HZniosGj9j0PPhhIaxcYK53UfDMw="
+        }
+      ]
+    },
+    {
+      "Route": "EmailTemplates/UserForgotPasswordWithLink.html",
+      "AssetFile": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\obj\\Debug\\net9.0\\compressed\\m01gken8kx-a645pkh89e.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000238038562"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4200"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HDYE57B3Hn4lbh+HZniosGj9j0PPhhIaxcYK53UfDMw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 08:49:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Yj3sijSqQZMV+o0z2NHWVXzXppfkatDO56MNabKmS+g=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Yj3sijSqQZMV+o0z2NHWVXzXppfkatDO56MNabKmS+g="
+        }
+      ]
+    },
+    {
+      "Route": "EmailTemplates/UserForgotPasswordWithLink.html",
+      "AssetFile": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\wwwroot\\EmailTemplates\\UserForgotPasswordWithLink.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35012"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Yj3sijSqQZMV+o0z2NHWVXzXppfkatDO56MNabKmS+g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 08:49:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Yj3sijSqQZMV+o0z2NHWVXzXppfkatDO56MNabKmS+g="
+        }
+      ]
+    },
+    {
+      "Route": "EmailTemplates/UserForgotPasswordWithLink.html.gz",
+      "AssetFile": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\obj\\Debug\\net9.0\\compressed\\m01gken8kx-a645pkh89e.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4200"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HDYE57B3Hn4lbh+HZniosGj9j0PPhhIaxcYK53UfDMw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 08:49:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HDYE57B3Hn4lbh+HZniosGj9j0PPhhIaxcYK53UfDMw="
+        }
+      ]
+    },
+    {
+      "Route": "EmailTemplates/UserPassword.1i87ltsb6w.html",
+      "AssetFile": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\obj\\Debug\\net9.0\\compressed\\0p061lpf9d-1i87ltsb6w.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000564652739"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1770"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3y+asrFgXusDnSpm7izJkaIgTE1ze3C90pb7Tvv8sfs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 08:49:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"yW8cSaqNZShU1RxFPuGeosOT6igBUKfoKr1sO1TKWZo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1i87ltsb6w"
+        },
+        {
+          "Name": "label",
+          "Value": "EmailTemplates/UserPassword.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yW8cSaqNZShU1RxFPuGeosOT6igBUKfoKr1sO1TKWZo="
+        }
+      ]
+    },
+    {
+      "Route": "EmailTemplates/UserPassword.1i87ltsb6w.html",
+      "AssetFile": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\wwwroot\\EmailTemplates\\UserPassword.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8161"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yW8cSaqNZShU1RxFPuGeosOT6igBUKfoKr1sO1TKWZo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 08:49:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1i87ltsb6w"
+        },
+        {
+          "Name": "label",
+          "Value": "EmailTemplates/UserPassword.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yW8cSaqNZShU1RxFPuGeosOT6igBUKfoKr1sO1TKWZo="
+        }
+      ]
+    },
+    {
+      "Route": "EmailTemplates/UserPassword.1i87ltsb6w.html.gz",
+      "AssetFile": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\obj\\Debug\\net9.0\\compressed\\0p061lpf9d-1i87ltsb6w.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1770"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3y+asrFgXusDnSpm7izJkaIgTE1ze3C90pb7Tvv8sfs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 08:49:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1i87ltsb6w"
+        },
+        {
+          "Name": "label",
+          "Value": "EmailTemplates/UserPassword.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3y+asrFgXusDnSpm7izJkaIgTE1ze3C90pb7Tvv8sfs="
+        }
+      ]
+    },
+    {
+      "Route": "EmailTemplates/UserPassword.html",
+      "AssetFile": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\obj\\Debug\\net9.0\\compressed\\0p061lpf9d-1i87ltsb6w.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000564652739"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1770"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3y+asrFgXusDnSpm7izJkaIgTE1ze3C90pb7Tvv8sfs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 08:49:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"yW8cSaqNZShU1RxFPuGeosOT6igBUKfoKr1sO1TKWZo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yW8cSaqNZShU1RxFPuGeosOT6igBUKfoKr1sO1TKWZo="
+        }
+      ]
+    },
+    {
+      "Route": "EmailTemplates/UserPassword.html",
+      "AssetFile": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\wwwroot\\EmailTemplates\\UserPassword.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8161"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yW8cSaqNZShU1RxFPuGeosOT6igBUKfoKr1sO1TKWZo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 08:49:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yW8cSaqNZShU1RxFPuGeosOT6igBUKfoKr1sO1TKWZo="
+        }
+      ]
+    },
+    {
+      "Route": "EmailTemplates/UserPassword.html.gz",
+      "AssetFile": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\obj\\Debug\\net9.0\\compressed\\0p061lpf9d-1i87ltsb6w.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1770"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3y+asrFgXusDnSpm7izJkaIgTE1ze3C90pb7Tvv8sfs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 08:49:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3y+asrFgXusDnSpm7izJkaIgTE1ze3C90pb7Tvv8sfs="
+        }
+      ]
+    }
+  ]
+}

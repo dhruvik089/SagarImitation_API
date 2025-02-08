@@ -1,0 +1,715 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Sagar Imitation\\Backend\\SagarImitation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF354FC-9982-4FC0-8817-095262CFE8D9}|SagarImitation\\SagarImitation.API.csproj|c:\\sagar imitation\\backend\\sagarimitation\\sagarimitation\\areas\\admin\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DF354FC-9982-4FC0-8817-095262CFE8D9}|SagarImitation\\SagarImitation.API.csproj|solutionrelative:sagarimitation\\areas\\admin\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF354FC-9982-4FC0-8817-095262CFE8D9}|SagarImitation\\SagarImitation.API.csproj|c:\\sagar imitation\\backend\\sagarimitation\\sagarimitation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DF354FC-9982-4FC0-8817-095262CFE8D9}|SagarImitation\\SagarImitation.API.csproj|solutionrelative:sagarimitation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF354FC-9982-4FC0-8817-095262CFE8D9}|SagarImitation\\SagarImitation.API.csproj|c:\\sagar imitation\\backend\\sagarimitation\\sagarimitation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0DF354FC-9982-4FC0-8817-095262CFE8D9}|SagarImitation\\SagarImitation.API.csproj|solutionrelative:sagarimitation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D03D9E-0CFB-406D-AFE2-08855930ADEB}|SagarImitaion.Model\\SagarImitaion.Model.csproj|c:\\sagar imitation\\backend\\sagarimitation\\sagarimitaion.model\\login\\loginrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D03D9E-0CFB-406D-AFE2-08855930ADEB}|SagarImitaion.Model\\SagarImitaion.Model.csproj|solutionrelative:sagarimitaion.model\\login\\loginrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF354FC-9982-4FC0-8817-095262CFE8D9}|SagarImitation\\SagarImitation.API.csproj|c:\\sagar imitation\\backend\\sagarimitation\\sagarimitation\\wwwroot\\emailtemplates\\exceptionreport.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DF354FC-9982-4FC0-8817-095262CFE8D9}|SagarImitation\\SagarImitation.API.csproj|solutionrelative:sagarimitation\\wwwroot\\emailtemplates\\exceptionreport.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF354FC-9982-4FC0-8817-095262CFE8D9}|SagarImitation\\SagarImitation.API.csproj|c:\\sagar imitation\\backend\\sagarimitation\\sagarimitation\\wwwroot\\emailtemplates\\userforgotpasswordwithlink.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DF354FC-9982-4FC0-8817-095262CFE8D9}|SagarImitation\\SagarImitation.API.csproj|solutionrelative:sagarimitation\\wwwroot\\emailtemplates\\userforgotpasswordwithlink.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF354FC-9982-4FC0-8817-095262CFE8D9}|SagarImitation\\SagarImitation.API.csproj|c:\\sagar imitation\\backend\\sagarimitation\\sagarimitation\\areas\\admin\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DF354FC-9982-4FC0-8817-095262CFE8D9}|SagarImitation\\SagarImitation.API.csproj|solutionrelative:sagarimitation\\areas\\admin\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25A8CFA9-98B3-43D3-825E-F9F036C02D5C}|SagarImitation.Repository\\SagarImitation.Service.csproj|c:\\sagar imitation\\backend\\sagarimitation\\sagarimitation.repository\\serviceregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25A8CFA9-98B3-43D3-825E-F9F036C02D5C}|SagarImitation.Repository\\SagarImitation.Service.csproj|solutionrelative:sagarimitation.repository\\serviceregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49504FAC-351F-4B72-815C-3F692FCEE817}|SagarImitaion.Data\\SagarImitaion.Data.csproj|c:\\sagar imitation\\backend\\sagarimitation\\sagarimitaion.data\\dataregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49504FAC-351F-4B72-815C-3F692FCEE817}|SagarImitaion.Data\\SagarImitaion.Data.csproj|solutionrelative:sagarimitaion.data\\dataregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25A8CFA9-98B3-43D3-825E-F9F036C02D5C}|SagarImitation.Repository\\SagarImitation.Service.csproj|c:\\sagar imitation\\backend\\sagarimitation\\sagarimitation.repository\\category\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25A8CFA9-98B3-43D3-825E-F9F036C02D5C}|SagarImitation.Repository\\SagarImitation.Service.csproj|solutionrelative:sagarimitation.repository\\category\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25A8CFA9-98B3-43D3-825E-F9F036C02D5C}|SagarImitation.Repository\\SagarImitation.Service.csproj|c:\\sagar imitation\\backend\\sagarimitation\\sagarimitation.repository\\category\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25A8CFA9-98B3-43D3-825E-F9F036C02D5C}|SagarImitation.Repository\\SagarImitation.Service.csproj|solutionrelative:sagarimitation.repository\\category\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49504FAC-351F-4B72-815C-3F692FCEE817}|SagarImitaion.Data\\SagarImitaion.Data.csproj|c:\\sagar imitation\\backend\\sagarimitation\\sagarimitaion.data\\dbrepository\\category\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49504FAC-351F-4B72-815C-3F692FCEE817}|SagarImitaion.Data\\SagarImitaion.Data.csproj|solutionrelative:sagarimitaion.data\\dbrepository\\category\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49504FAC-351F-4B72-815C-3F692FCEE817}|SagarImitaion.Data\\SagarImitaion.Data.csproj|c:\\sagar imitation\\backend\\sagarimitation\\sagarimitaion.data\\dbrepository\\category\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49504FAC-351F-4B72-815C-3F692FCEE817}|SagarImitaion.Data\\SagarImitaion.Data.csproj|solutionrelative:sagarimitaion.data\\dbrepository\\category\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF354FC-9982-4FC0-8817-095262CFE8D9}|SagarImitation\\SagarImitation.API.csproj|c:\\sagar imitation\\backend\\sagarimitation\\sagarimitation\\areas\\admin\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DF354FC-9982-4FC0-8817-095262CFE8D9}|SagarImitation\\SagarImitation.API.csproj|solutionrelative:sagarimitation\\areas\\admin\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49504FAC-351F-4B72-815C-3F692FCEE817}|SagarImitaion.Data\\SagarImitaion.Data.csproj|c:\\sagar imitation\\backend\\sagarimitation\\sagarimitaion.data\\dbrepository\\product\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49504FAC-351F-4B72-815C-3F692FCEE817}|SagarImitaion.Data\\SagarImitaion.Data.csproj|solutionrelative:sagarimitaion.data\\dbrepository\\product\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49504FAC-351F-4B72-815C-3F692FCEE817}|SagarImitaion.Data\\SagarImitaion.Data.csproj|c:\\sagar imitation\\backend\\sagarimitation\\sagarimitaion.data\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49504FAC-351F-4B72-815C-3F692FCEE817}|SagarImitaion.Data\\SagarImitaion.Data.csproj|solutionrelative:sagarimitaion.data\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49504FAC-351F-4B72-815C-3F692FCEE817}|SagarImitaion.Data\\SagarImitaion.Data.csproj|c:\\sagar imitation\\backend\\sagarimitation\\sagarimitaion.data\\dbrepository\\product\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49504FAC-351F-4B72-815C-3F692FCEE817}|SagarImitaion.Data\\SagarImitaion.Data.csproj|solutionrelative:sagarimitaion.data\\dbrepository\\product\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D03D9E-0CFB-406D-AFE2-08855930ADEB}|SagarImitaion.Model\\SagarImitaion.Model.csproj|c:\\sagar imitation\\backend\\sagarimitation\\sagarimitaion.model\\category\\categoryresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D03D9E-0CFB-406D-AFE2-08855930ADEB}|SagarImitaion.Model\\SagarImitaion.Model.csproj|solutionrelative:sagarimitaion.model\\category\\categoryresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D03D9E-0CFB-406D-AFE2-08855930ADEB}|SagarImitaion.Model\\SagarImitaion.Model.csproj|c:\\sagar imitation\\backend\\sagarimitation\\sagarimitaion.model\\category\\categoryrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D03D9E-0CFB-406D-AFE2-08855930ADEB}|SagarImitaion.Model\\SagarImitaion.Model.csproj|solutionrelative:sagarimitaion.model\\category\\categoryrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF354FC-9982-4FC0-8817-095262CFE8D9}|SagarImitation\\SagarImitation.API.csproj|c:\\sagar imitation\\backend\\sagarimitation\\sagarimitation\\areas\\admin\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DF354FC-9982-4FC0-8817-095262CFE8D9}|SagarImitation\\SagarImitation.API.csproj|solutionrelative:sagarimitation\\areas\\admin\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D03D9E-0CFB-406D-AFE2-08855930ADEB}|SagarImitaion.Model\\SagarImitaion.Model.csproj|c:\\sagar imitation\\backend\\sagarimitation\\sagarimitaion.model\\user\\userrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D03D9E-0CFB-406D-AFE2-08855930ADEB}|SagarImitaion.Model\\SagarImitaion.Model.csproj|solutionrelative:sagarimitaion.model\\user\\userrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25A8CFA9-98B3-43D3-825E-F9F036C02D5C}|SagarImitation.Repository\\SagarImitation.Service.csproj|c:\\sagar imitation\\backend\\sagarimitation\\sagarimitation.repository\\product\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25A8CFA9-98B3-43D3-825E-F9F036C02D5C}|SagarImitation.Repository\\SagarImitation.Service.csproj|solutionrelative:sagarimitation.repository\\product\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49504FAC-351F-4B72-815C-3F692FCEE817}|SagarImitaion.Data\\SagarImitaion.Data.csproj|c:\\sagar imitation\\backend\\sagarimitation\\sagarimitaion.data\\dbrepository\\user\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49504FAC-351F-4B72-815C-3F692FCEE817}|SagarImitaion.Data\\SagarImitaion.Data.csproj|solutionrelative:sagarimitaion.data\\dbrepository\\user\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25A8CFA9-98B3-43D3-825E-F9F036C02D5C}|SagarImitation.Repository\\SagarImitation.Service.csproj|c:\\sagar imitation\\backend\\sagarimitation\\sagarimitation.repository\\user\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25A8CFA9-98B3-43D3-825E-F9F036C02D5C}|SagarImitation.Repository\\SagarImitation.Service.csproj|solutionrelative:sagarimitation.repository\\user\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25A8CFA9-98B3-43D3-825E-F9F036C02D5C}|SagarImitation.Repository\\SagarImitation.Service.csproj|c:\\sagar imitation\\backend\\sagarimitation\\sagarimitation.repository\\user\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25A8CFA9-98B3-43D3-825E-F9F036C02D5C}|SagarImitation.Repository\\SagarImitation.Service.csproj|solutionrelative:sagarimitation.repository\\user\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49504FAC-351F-4B72-815C-3F692FCEE817}|SagarImitaion.Data\\SagarImitaion.Data.csproj|c:\\sagar imitation\\backend\\sagarimitation\\sagarimitaion.data\\dbrepository\\user\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49504FAC-351F-4B72-815C-3F692FCEE817}|SagarImitaion.Data\\SagarImitaion.Data.csproj|solutionrelative:sagarimitaion.data\\dbrepository\\user\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D03D9E-0CFB-406D-AFE2-08855930ADEB}|SagarImitaion.Model\\SagarImitaion.Model.csproj|c:\\sagar imitation\\backend\\sagarimitation\\sagarimitaion.model\\user\\userresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D03D9E-0CFB-406D-AFE2-08855930ADEB}|SagarImitaion.Model\\SagarImitaion.Model.csproj|solutionrelative:sagarimitaion.model\\user\\userresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25A8CFA9-98B3-43D3-825E-F9F036C02D5C}|SagarImitation.Repository\\SagarImitation.Service.csproj|c:\\sagar imitation\\backend\\sagarimitation\\sagarimitation.repository\\product\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25A8CFA9-98B3-43D3-825E-F9F036C02D5C}|SagarImitation.Repository\\SagarImitation.Service.csproj|solutionrelative:sagarimitation.repository\\product\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C72A9FC-D2FB-4110-A304-99036882082F}|SagarImitation.Common\\SagarImitation.Common.csproj|c:\\sagar imitation\\backend\\sagarimitation\\sagarimitation.common\\commonmethod\\commonmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C72A9FC-D2FB-4110-A304-99036882082F}|SagarImitation.Common\\SagarImitation.Common.csproj|solutionrelative:sagarimitation.common\\commonmethod\\commonmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49504FAC-351F-4B72-815C-3F692FCEE817}|SagarImitaion.Data\\SagarImitaion.Data.csproj|c:\\sagar imitation\\backend\\sagarimitation\\sagarimitaion.data\\dbrepository\\account\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49504FAC-351F-4B72-815C-3F692FCEE817}|SagarImitaion.Data\\SagarImitaion.Data.csproj|solutionrelative:sagarimitaion.data\\dbrepository\\account\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49504FAC-351F-4B72-815C-3F692FCEE817}|SagarImitaion.Data\\SagarImitaion.Data.csproj|c:\\sagar imitation\\backend\\sagarimitation\\sagarimitaion.data\\dbrepository\\account\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49504FAC-351F-4B72-815C-3F692FCEE817}|SagarImitaion.Data\\SagarImitaion.Data.csproj|solutionrelative:sagarimitaion.data\\dbrepository\\account\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25A8CFA9-98B3-43D3-825E-F9F036C02D5C}|SagarImitation.Repository\\SagarImitation.Service.csproj|c:\\sagar imitation\\backend\\sagarimitation\\sagarimitation.repository\\sagarimitation.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{25A8CFA9-98B3-43D3-825E-F9F036C02D5C}|SagarImitation.Repository\\SagarImitation.Service.csproj|solutionrelative:sagarimitation.repository\\sagarimitation.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF354FC-9982-4FC0-8817-095262CFE8D9}|SagarImitation\\SagarImitation.API.csproj|c:\\sagar imitation\\backend\\sagarimitation\\sagarimitation\\sagarimitation.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0DF354FC-9982-4FC0-8817-095262CFE8D9}|SagarImitation\\SagarImitation.API.csproj|solutionrelative:sagarimitation\\sagarimitation.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF354FC-9982-4FC0-8817-095262CFE8D9}|SagarImitation\\SagarImitation.API.csproj|c:\\sagar imitation\\backend\\sagarimitation\\sagarimitation\\registerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DF354FC-9982-4FC0-8817-095262CFE8D9}|SagarImitation\\SagarImitation.API.csproj|solutionrelative:sagarimitation\\registerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF354FC-9982-4FC0-8817-095262CFE8D9}|SagarImitation\\SagarImitation.API.csproj|c:\\sagar imitation\\backend\\sagarimitation\\sagarimitation\\areas\\website\\prouctcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DF354FC-9982-4FC0-8817-095262CFE8D9}|SagarImitation\\SagarImitation.API.csproj|solutionrelative:sagarimitation\\areas\\website\\prouctcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF354FC-9982-4FC0-8817-095262CFE8D9}|SagarImitation\\SagarImitation.API.csproj|c:\\sagar imitation\\backend\\sagarimitation\\sagarimitation\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0DF354FC-9982-4FC0-8817-095262CFE8D9}|SagarImitation\\SagarImitation.API.csproj|solutionrelative:sagarimitation\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D03D9E-0CFB-406D-AFE2-08855930ADEB}|SagarImitaion.Model\\SagarImitaion.Model.csproj|c:\\sagar imitation\\backend\\sagarimitation\\sagarimitaion.model\\token\\usertokenmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D03D9E-0CFB-406D-AFE2-08855930ADEB}|SagarImitaion.Model\\SagarImitaion.Model.csproj|solutionrelative:sagarimitaion.model\\token\\usertokenmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C72A9FC-D2FB-4110-A304-99036882082F}|SagarImitation.Common\\SagarImitation.Common.csproj|c:\\sagar imitation\\backend\\sagarimitation\\sagarimitation.common\\cachesettings\\icacheprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C72A9FC-D2FB-4110-A304-99036882082F}|SagarImitation.Common\\SagarImitation.Common.csproj|solutionrelative:sagarimitation.common\\cachesettings\\icacheprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C72A9FC-D2FB-4110-A304-99036882082F}|SagarImitation.Common\\SagarImitation.Common.csproj|c:\\sagar imitation\\backend\\sagarimitation\\sagarimitation.common\\cachesettings\\cacheoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C72A9FC-D2FB-4110-A304-99036882082F}|SagarImitation.Common\\SagarImitation.Common.csproj|solutionrelative:sagarimitation.common\\cachesettings\\cacheoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C72A9FC-D2FB-4110-A304-99036882082F}|SagarImitation.Common\\SagarImitation.Common.csproj|c:\\sagar imitation\\backend\\sagarimitation\\sagarimitation.common\\cachesettings\\customcacheprovider .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C72A9FC-D2FB-4110-A304-99036882082F}|SagarImitation.Common\\SagarImitation.Common.csproj|solutionrelative:sagarimitation.common\\cachesettings\\customcacheprovider .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C72A9FC-D2FB-4110-A304-99036882082F}|SagarImitation.Common\\SagarImitation.Common.csproj|c:\\sagar imitation\\backend\\sagarimitation\\sagarimitation.common\\cachesettings\\cachekeys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C72A9FC-D2FB-4110-A304-99036882082F}|SagarImitation.Common\\SagarImitation.Common.csproj|solutionrelative:sagarimitation.common\\cachesettings\\cachekeys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D03D9E-0CFB-406D-AFE2-08855930ADEB}|SagarImitaion.Model\\SagarImitaion.Model.csproj|c:\\sagar imitation\\backend\\sagarimitation\\sagarimitaion.model\\common\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D03D9E-0CFB-406D-AFE2-08855930ADEB}|SagarImitaion.Model\\SagarImitaion.Model.csproj|solutionrelative:sagarimitaion.model\\common\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D03D9E-0CFB-406D-AFE2-08855930ADEB}|SagarImitaion.Model\\SagarImitaion.Model.csproj|c:\\sagar imitation\\backend\\sagarimitation\\sagarimitaion.model\\common\\commonpagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D03D9E-0CFB-406D-AFE2-08855930ADEB}|SagarImitaion.Model\\SagarImitaion.Model.csproj|solutionrelative:sagarimitaion.model\\common\\commonpagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExceptionReport.html",
+              "DocumentMoniker": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\wwwroot\\EmailTemplates\\ExceptionReport.html",
+              "RelativeDocumentMoniker": "SagarImitation\\wwwroot\\EmailTemplates\\ExceptionReport.html",
+              "ToolTip": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\wwwroot\\EmailTemplates\\ExceptionReport.html",
+              "RelativeToolTip": "SagarImitation\\wwwroot\\EmailTemplates\\ExceptionReport.html",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-26T10:41:40.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\Areas\\Admin\\CategoryController.cs",
+              "RelativeDocumentMoniker": "SagarImitation\\Areas\\Admin\\CategoryController.cs",
+              "ToolTip": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\Areas\\Admin\\CategoryController.cs",
+              "RelativeToolTip": "SagarImitation\\Areas\\Admin\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T09:36:15.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\Areas\\Admin\\ProductController.cs",
+              "RelativeDocumentMoniker": "SagarImitation\\Areas\\Admin\\ProductController.cs",
+              "ToolTip": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\Areas\\Admin\\ProductController.cs",
+              "RelativeToolTip": "SagarImitation\\Areas\\Admin\\ProductController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA1wEgAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T12:44:53.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\Areas\\Admin\\AccountController.cs",
+              "RelativeDocumentMoniker": "SagarImitation\\Areas\\Admin\\AccountController.cs",
+              "ToolTip": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\Areas\\Admin\\AccountController.cs",
+              "RelativeToolTip": "SagarImitation\\Areas\\Admin\\AccountController.cs",
+              "ViewState": "AgIAALwAAAAAAAAAAAAQwMQAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T05:13:05.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginRequestModel.cs",
+              "DocumentMoniker": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitaion.Model\\Login\\LoginRequestModel.cs",
+              "RelativeDocumentMoniker": "SagarImitaion.Model\\Login\\LoginRequestModel.cs",
+              "ToolTip": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitaion.Model\\Login\\LoginRequestModel.cs",
+              "RelativeToolTip": "SagarImitaion.Model\\Login\\LoginRequestModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwBAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T06:41:55.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\appsettings.json",
+              "RelativeDocumentMoniker": "SagarImitation\\appsettings.json",
+              "ToolTip": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\appsettings.json",
+              "RelativeToolTip": "SagarImitation\\appsettings.json",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-16T06:39:08.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\Program.cs",
+              "RelativeDocumentMoniker": "SagarImitation\\Program.cs",
+              "ToolTip": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\Program.cs",
+              "RelativeToolTip": "SagarImitation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T04:59:18.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserForgotPasswordWithLink.html",
+              "DocumentMoniker": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\wwwroot\\EmailTemplates\\UserForgotPasswordWithLink.html",
+              "RelativeDocumentMoniker": "SagarImitation\\wwwroot\\EmailTemplates\\UserForgotPasswordWithLink.html",
+              "ToolTip": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\wwwroot\\EmailTemplates\\UserForgotPasswordWithLink.html",
+              "RelativeToolTip": "SagarImitation\\wwwroot\\EmailTemplates\\UserForgotPasswordWithLink.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-26T10:42:17.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation.Repository\\Category\\CategoryService.cs",
+              "RelativeDocumentMoniker": "SagarImitation.Repository\\Category\\CategoryService.cs",
+              "ToolTip": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation.Repository\\Category\\CategoryService.cs",
+              "RelativeToolTip": "SagarImitation.Repository\\Category\\CategoryService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAmwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T06:59:07.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitaion.Data\\DBRepository\\Category\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "SagarImitaion.Data\\DBRepository\\Category\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitaion.Data\\DBRepository\\Category\\ICategoryRepository.cs",
+              "RelativeToolTip": "SagarImitaion.Data\\DBRepository\\Category\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T06:54:07.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitaion.Data\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "SagarImitaion.Data\\BaseRepository.cs",
+              "ToolTip": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitaion.Data\\BaseRepository.cs",
+              "RelativeToolTip": "SagarImitaion.Data\\BaseRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAWwBkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T13:15:41.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ServiceRegister.cs",
+              "DocumentMoniker": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation.Repository\\ServiceRegister.cs",
+              "RelativeDocumentMoniker": "SagarImitation.Repository\\ServiceRegister.cs",
+              "ToolTip": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation.Repository\\ServiceRegister.cs",
+              "RelativeToolTip": "SagarImitation.Repository\\ServiceRegister.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T06:12:40.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataRegister.cs",
+              "DocumentMoniker": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitaion.Data\\DataRegister.cs",
+              "RelativeDocumentMoniker": "SagarImitaion.Data\\DataRegister.cs",
+              "ToolTip": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitaion.Data\\DataRegister.cs",
+              "RelativeToolTip": "SagarImitaion.Data\\DataRegister.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T06:09:06.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation.Repository\\Category\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "SagarImitation.Repository\\Category\\ICategoryService.cs",
+              "ToolTip": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation.Repository\\Category\\ICategoryService.cs",
+              "RelativeToolTip": "SagarImitation.Repository\\Category\\ICategoryService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAWwAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T06:59:24.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitaion.Data\\DBRepository\\Category\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "SagarImitaion.Data\\DBRepository\\Category\\CategoryRepository.cs",
+              "ToolTip": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitaion.Data\\DBRepository\\Category\\CategoryRepository.cs",
+              "RelativeToolTip": "SagarImitaion.Data\\DBRepository\\Category\\CategoryRepository.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T06:53:59.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitaion.Data\\DBRepository\\Product\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "SagarImitaion.Data\\DBRepository\\Product\\ProductRepository.cs",
+              "ToolTip": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitaion.Data\\DBRepository\\Product\\ProductRepository.cs",
+              "RelativeToolTip": "SagarImitaion.Data\\DBRepository\\Product\\ProductRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T12:51:04.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitaion.Data\\DBRepository\\Product\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "SagarImitaion.Data\\DBRepository\\Product\\IProductRepository.cs",
+              "ToolTip": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitaion.Data\\DBRepository\\Product\\IProductRepository.cs",
+              "RelativeToolTip": "SagarImitaion.Data\\DBRepository\\Product\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T05:36:26.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CategoryResponseModel.cs",
+              "DocumentMoniker": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitaion.Model\\Category\\CategoryResponseModel.cs",
+              "RelativeDocumentMoniker": "SagarImitaion.Model\\Category\\CategoryResponseModel.cs",
+              "ToolTip": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitaion.Model\\Category\\CategoryResponseModel.cs",
+              "RelativeToolTip": "SagarImitaion.Model\\Category\\CategoryResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T07:01:10.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CategoryRequestModel.cs",
+              "DocumentMoniker": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitaion.Model\\Category\\CategoryRequestModel.cs",
+              "RelativeDocumentMoniker": "SagarImitaion.Model\\Category\\CategoryRequestModel.cs",
+              "ToolTip": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitaion.Model\\Category\\CategoryRequestModel.cs",
+              "RelativeToolTip": "SagarImitaion.Model\\Category\\CategoryRequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T07:00:47.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\Areas\\Admin\\UserController.cs",
+              "RelativeDocumentMoniker": "SagarImitation\\Areas\\Admin\\UserController.cs",
+              "ToolTip": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\Areas\\Admin\\UserController.cs",
+              "RelativeToolTip": "SagarImitation\\Areas\\Admin\\UserController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwDUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T05:49:24.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitaion.Data\\DBRepository\\User\\UserRepository.cs",
+              "RelativeDocumentMoniker": "SagarImitaion.Data\\DBRepository\\User\\UserRepository.cs",
+              "ToolTip": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitaion.Data\\DBRepository\\User\\UserRepository.cs",
+              "RelativeToolTip": "SagarImitaion.Data\\DBRepository\\User\\UserRepository.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAswD0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T05:52:10.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation.Repository\\Product\\IProductService.cs",
+              "RelativeDocumentMoniker": "SagarImitation.Repository\\Product\\IProductService.cs",
+              "ToolTip": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation.Repository\\Product\\IProductService.cs",
+              "RelativeToolTip": "SagarImitation.Repository\\Product\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T06:39:09.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserRequestModel.cs",
+              "DocumentMoniker": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitaion.Model\\User\\UserRequestModel.cs",
+              "RelativeDocumentMoniker": "SagarImitaion.Model\\User\\UserRequestModel.cs",
+              "ToolTip": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitaion.Model\\User\\UserRequestModel.cs",
+              "RelativeToolTip": "SagarImitaion.Model\\User\\UserRequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T04:38:06.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserServices.cs",
+              "DocumentMoniker": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation.Repository\\User\\UserServices.cs",
+              "RelativeDocumentMoniker": "SagarImitation.Repository\\User\\UserServices.cs",
+              "ToolTip": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation.Repository\\User\\UserServices.cs",
+              "RelativeToolTip": "SagarImitation.Repository\\User\\UserServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T04:36:51.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IUserServices.cs",
+              "DocumentMoniker": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation.Repository\\User\\IUserServices.cs",
+              "RelativeDocumentMoniker": "SagarImitation.Repository\\User\\IUserServices.cs",
+              "ToolTip": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation.Repository\\User\\IUserServices.cs",
+              "RelativeToolTip": "SagarImitation.Repository\\User\\IUserServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T04:37:05.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitaion.Data\\DBRepository\\User\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "SagarImitaion.Data\\DBRepository\\User\\IUserRepository.cs",
+              "ToolTip": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitaion.Data\\DBRepository\\User\\IUserRepository.cs",
+              "RelativeToolTip": "SagarImitaion.Data\\DBRepository\\User\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T05:51:16.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserResponseModel.cs",
+              "DocumentMoniker": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitaion.Model\\User\\UserResponseModel.cs",
+              "RelativeDocumentMoniker": "SagarImitaion.Model\\User\\UserResponseModel.cs",
+              "ToolTip": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitaion.Model\\User\\UserResponseModel.cs",
+              "RelativeToolTip": "SagarImitaion.Model\\User\\UserResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T05:40:51.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation.Repository\\Product\\ProductService.cs",
+              "RelativeDocumentMoniker": "SagarImitation.Repository\\Product\\ProductService.cs",
+              "ToolTip": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation.Repository\\Product\\ProductService.cs",
+              "RelativeToolTip": "SagarImitation.Repository\\Product\\ProductService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAvwBoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T12:51:32.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitaion.Data\\DBRepository\\Account\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "SagarImitaion.Data\\DBRepository\\Account\\AccountRepository.cs",
+              "ToolTip": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitaion.Data\\DBRepository\\Account\\AccountRepository.cs",
+              "RelativeToolTip": "SagarImitaion.Data\\DBRepository\\Account\\AccountRepository.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAnwD8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T06:11:47.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IAccountRepository.cs",
+              "DocumentMoniker": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitaion.Data\\DBRepository\\Account\\IAccountRepository.cs",
+              "RelativeDocumentMoniker": "SagarImitaion.Data\\DBRepository\\Account\\IAccountRepository.cs",
+              "ToolTip": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitaion.Data\\DBRepository\\Account\\IAccountRepository.cs",
+              "RelativeToolTip": "SagarImitaion.Data\\DBRepository\\Account\\IAccountRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAWwA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:28:06.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CommonMethods.cs",
+              "DocumentMoniker": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation.Common\\CommonMethod\\CommonMethods.cs",
+              "RelativeDocumentMoniker": "SagarImitation.Common\\CommonMethod\\CommonMethods.cs",
+              "ToolTip": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation.Common\\CommonMethod\\CommonMethods.cs",
+              "RelativeToolTip": "SagarImitation.Common\\CommonMethod\\CommonMethods.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAnwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T10:28:35.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SagarImitation.Service.csproj",
+              "DocumentMoniker": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation.Repository\\SagarImitation.Service.csproj",
+              "RelativeDocumentMoniker": "SagarImitation.Repository\\SagarImitation.Service.csproj",
+              "ToolTip": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation.Repository\\SagarImitation.Service.csproj",
+              "RelativeToolTip": "SagarImitation.Repository\\SagarImitation.Service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-16T06:39:10.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "RegisterService.cs",
+              "DocumentMoniker": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\RegisterService.cs",
+              "RelativeDocumentMoniker": "SagarImitation\\RegisterService.cs",
+              "ToolTip": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\RegisterService.cs",
+              "RelativeToolTip": "SagarImitation\\RegisterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T05:16:48.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "SagarImitation\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "SagarImitation\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-16T04:42:35.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ProuctController.cs",
+              "DocumentMoniker": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\Areas\\Website\\ProuctController.cs",
+              "RelativeDocumentMoniker": "SagarImitation\\Areas\\Website\\ProuctController.cs",
+              "ToolTip": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\Areas\\Website\\ProuctController.cs",
+              "RelativeToolTip": "SagarImitation\\Areas\\Website\\ProuctController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T05:13:03.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UserTokenModel.cs",
+              "DocumentMoniker": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitaion.Model\\Token\\UserTokenModel.cs",
+              "RelativeDocumentMoniker": "SagarImitaion.Model\\Token\\UserTokenModel.cs",
+              "ToolTip": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitaion.Model\\Token\\UserTokenModel.cs",
+              "RelativeToolTip": "SagarImitaion.Model\\Token\\UserTokenModel.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAIA9wBIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T14:49:04.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CustomCacheProvider .cs",
+              "DocumentMoniker": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation.Common\\CacheSettings\\CustomCacheProvider .cs",
+              "RelativeDocumentMoniker": "SagarImitation.Common\\CacheSettings\\CustomCacheProvider .cs",
+              "ToolTip": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation.Common\\CacheSettings\\CustomCacheProvider .cs",
+              "RelativeToolTip": "SagarImitation.Common\\CacheSettings\\CustomCacheProvider .cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAqwAkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T10:45:28.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CacheOptions.cs",
+              "DocumentMoniker": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation.Common\\CacheSettings\\CacheOptions.cs",
+              "RelativeDocumentMoniker": "SagarImitation.Common\\CacheSettings\\CacheOptions.cs",
+              "ToolTip": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation.Common\\CacheSettings\\CacheOptions.cs",
+              "RelativeToolTip": "SagarImitation.Common\\CacheSettings\\CacheOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T10:46:18.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ICacheProvider.cs",
+              "DocumentMoniker": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation.Common\\CacheSettings\\ICacheProvider.cs",
+              "RelativeDocumentMoniker": "SagarImitation.Common\\CacheSettings\\ICacheProvider.cs",
+              "ToolTip": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation.Common\\CacheSettings\\ICacheProvider.cs",
+              "RelativeToolTip": "SagarImitation.Common\\CacheSettings\\ICacheProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T10:46:21.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CacheKeys.cs",
+              "DocumentMoniker": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation.Common\\CacheSettings\\CacheKeys.cs",
+              "RelativeDocumentMoniker": "SagarImitation.Common\\CacheSettings\\CacheKeys.cs",
+              "ToolTip": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation.Common\\CacheSettings\\CacheKeys.cs",
+              "RelativeToolTip": "SagarImitation.Common\\CacheSettings\\CacheKeys.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:42:27.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ResponseModel.cs",
+              "DocumentMoniker": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitaion.Model\\Common\\ResponseModel.cs",
+              "RelativeDocumentMoniker": "SagarImitaion.Model\\Common\\ResponseModel.cs",
+              "ToolTip": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitaion.Model\\Common\\ResponseModel.cs",
+              "RelativeToolTip": "SagarImitaion.Model\\Common\\ResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:32:23.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CommonPagination.cs",
+              "DocumentMoniker": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitaion.Model\\Common\\CommonPagination.cs",
+              "RelativeDocumentMoniker": "SagarImitaion.Model\\Common\\CommonPagination.cs",
+              "ToolTip": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitaion.Model\\Common\\CommonPagination.cs",
+              "RelativeToolTip": "SagarImitaion.Model\\Common\\CommonPagination.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:31:48.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SagarImitation.API.csproj",
+              "DocumentMoniker": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\SagarImitation.API.csproj",
+              "RelativeDocumentMoniker": "SagarImitation\\SagarImitation.API.csproj",
+              "ToolTip": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\SagarImitation.API.csproj",
+              "RelativeToolTip": "SagarImitation\\SagarImitation.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-28T08:14:57.756Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

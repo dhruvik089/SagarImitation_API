@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\wwwroot\\EmailTemplates\\ExceptionReport.html",
+      "PackagePath": "staticwebassets\\EmailTemplates\\ExceptionReport.html"
+    },
+    {
+      "Id": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\wwwroot\\EmailTemplates\\UserForgotPassword.html",
+      "PackagePath": "staticwebassets\\EmailTemplates\\UserForgotPassword.html"
+    },
+    {
+      "Id": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\wwwroot\\EmailTemplates\\UserForgotPasswordWithLink.html",
+      "PackagePath": "staticwebassets\\EmailTemplates\\UserForgotPasswordWithLink.html"
+    },
+    {
+      "Id": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitation\\wwwroot\\EmailTemplates\\UserPassword.html",
+      "PackagePath": "staticwebassets\\EmailTemplates\\UserPassword.html"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.SagarImitation.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.SagarImitation.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.SagarImitation.API.props",
+      "PackagePath": "build\\SagarImitation.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.SagarImitation.API.props",
+      "PackagePath": "buildMultiTargeting\\SagarImitation.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.SagarImitation.API.props",
+      "PackagePath": "buildTransitive\\SagarImitation.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "nsDloYfCyQA=",
+  "success": true,
+  "projectFilePath": "C:\\Sagar Imitation\\Backend\\SagarImitation\\SagarImitaion.Model\\SagarImitaion.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dhruv\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\dhruv\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\dhruv\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

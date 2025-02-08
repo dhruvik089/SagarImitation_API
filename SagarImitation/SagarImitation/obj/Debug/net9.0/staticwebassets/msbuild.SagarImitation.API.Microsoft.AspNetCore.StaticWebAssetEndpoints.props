@@ -1,0 +1,52 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/SagarImitation.API/EmailTemplates/ExceptionReport.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\EmailTemplates\ExceptionReport.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-wOCeUrPzLCfb2h83O5iUBRjOl1YC59/MEjwvqiGuwqE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"4515"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022wOCeUrPzLCfb2h83O5iUBRjOl1YC59/MEjwvqiGuwqE=\u0022"},{"Name":"Last-Modified","Value":"Sat, 07 Dec 2024 08:49:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SagarImitation.API/EmailTemplates/ExceptionReport.sdhh5aiwnb.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\EmailTemplates\ExceptionReport.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"sdhh5aiwnb"},{"Name":"integrity","Value":"sha256-wOCeUrPzLCfb2h83O5iUBRjOl1YC59/MEjwvqiGuwqE="},{"Name":"label","Value":"_content/SagarImitation.API/EmailTemplates/ExceptionReport.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4515"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022wOCeUrPzLCfb2h83O5iUBRjOl1YC59/MEjwvqiGuwqE=\u0022"},{"Name":"Last-Modified","Value":"Sat, 07 Dec 2024 08:49:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SagarImitation.API/EmailTemplates/UserForgotPassword.h5hqx4qdh5.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\EmailTemplates\UserForgotPassword.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"h5hqx4qdh5"},{"Name":"integrity","Value":"sha256-q/UeOAIwN93FBToVhmFrncVvwvEzdNv2ktLV6vihREs="},{"Name":"label","Value":"_content/SagarImitation.API/EmailTemplates/UserForgotPassword.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7968"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022q/UeOAIwN93FBToVhmFrncVvwvEzdNv2ktLV6vihREs=\u0022"},{"Name":"Last-Modified","Value":"Sat, 07 Dec 2024 08:49:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SagarImitation.API/EmailTemplates/UserForgotPassword.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\EmailTemplates\UserForgotPassword.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-q/UeOAIwN93FBToVhmFrncVvwvEzdNv2ktLV6vihREs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"7968"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022q/UeOAIwN93FBToVhmFrncVvwvEzdNv2ktLV6vihREs=\u0022"},{"Name":"Last-Modified","Value":"Sat, 07 Dec 2024 08:49:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SagarImitation.API/EmailTemplates/UserForgotPasswordWithLink.a645pkh89e.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\EmailTemplates\UserForgotPasswordWithLink.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"a645pkh89e"},{"Name":"integrity","Value":"sha256-Yj3sijSqQZMV\u002Bo0z2NHWVXzXppfkatDO56MNabKmS\u002Bg="},{"Name":"label","Value":"_content/SagarImitation.API/EmailTemplates/UserForgotPasswordWithLink.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"35012"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022Yj3sijSqQZMV\u002Bo0z2NHWVXzXppfkatDO56MNabKmS\u002Bg=\u0022"},{"Name":"Last-Modified","Value":"Sat, 07 Dec 2024 08:49:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SagarImitation.API/EmailTemplates/UserForgotPasswordWithLink.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\EmailTemplates\UserForgotPasswordWithLink.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Yj3sijSqQZMV\u002Bo0z2NHWVXzXppfkatDO56MNabKmS\u002Bg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"35012"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022Yj3sijSqQZMV\u002Bo0z2NHWVXzXppfkatDO56MNabKmS\u002Bg=\u0022"},{"Name":"Last-Modified","Value":"Sat, 07 Dec 2024 08:49:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SagarImitation.API/EmailTemplates/UserPassword.1i87ltsb6w.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\EmailTemplates\UserPassword.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"1i87ltsb6w"},{"Name":"integrity","Value":"sha256-yW8cSaqNZShU1RxFPuGeosOT6igBUKfoKr1sO1TKWZo="},{"Name":"label","Value":"_content/SagarImitation.API/EmailTemplates/UserPassword.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8161"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022yW8cSaqNZShU1RxFPuGeosOT6igBUKfoKr1sO1TKWZo=\u0022"},{"Name":"Last-Modified","Value":"Sat, 07 Dec 2024 08:49:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SagarImitation.API/EmailTemplates/UserPassword.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\EmailTemplates\UserPassword.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-yW8cSaqNZShU1RxFPuGeosOT6igBUKfoKr1sO1TKWZo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"8161"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022yW8cSaqNZShU1RxFPuGeosOT6igBUKfoKr1sO1TKWZo=\u0022"},{"Name":"Last-Modified","Value":"Sat, 07 Dec 2024 08:49:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>
